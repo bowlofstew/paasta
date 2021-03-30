@@ -1,6 +1,6 @@
 PyStaticConfiguration==0.9.0
 PyYAML==3.11
-Pygments==2.0.2
+Pygments==2.7.4
 argcomplete==0.8.1
 # argparse is pinned to 1.2.1 since it comes in the core python2.7 libs and pip can't seem to override it
 argparse==1.2.1
